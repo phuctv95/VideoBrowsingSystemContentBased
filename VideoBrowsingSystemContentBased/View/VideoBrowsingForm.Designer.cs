@@ -1,6 +1,6 @@
 ﻿namespace VideoBrowsingSystemContentBased
 {
-    partial class Form1
+    partial class VideoBrowsingForm
     {
         /// <summary>
         /// Required designer variable.

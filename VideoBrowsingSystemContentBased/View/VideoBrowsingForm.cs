@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace VideoBrowsingSystemContentBased
 {
-    public partial class Form1 : Form
+    public partial class VideoBrowsingForm : Form
     {
-        public Form1()
+        public VideoBrowsingForm()
         {
             InitializeComponent();
         }
