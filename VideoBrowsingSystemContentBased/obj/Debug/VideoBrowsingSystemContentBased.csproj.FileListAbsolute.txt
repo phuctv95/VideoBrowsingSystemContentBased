@@ -1,0 +1,1 @@
+c:\users\puyed\documents\visual studio 2013\Projects\VideoBrowsingSystemContentBased\VideoBrowsingSystemContentBased\bin\Debug\VideoBrowsingSystemContentBased.exe.config
